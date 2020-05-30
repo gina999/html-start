@@ -1,0 +1,44 @@
+.debug {
+    border: 1px #f00 solid;
+}
+
+.head {
+    background-color: #8899aa;
+    display: flex;
+    /* 並排 */
+    justify-content: center;
+    /*水平對齊 flex下運作*/
+    display: flex;
+    /* 並排 */
+}
+
+.main {
+    background-color: #cccccc;
+}
+
+.left {
+    width: 600px;
+    font-size: 36PX;
+    font-weight: bold;
+    color: white;
+    padding: 10px 0px;
+}
+
+.right {
+    /* width: 300px; */
+    display: flex;
+    align-items: center;
+    /*垂直排列*/
+}
+
+.col {
+    margin: 0px 5px;
+}
+
+.input {
+    width: 120px
+}
+
+body {
+    margin: 0px;
+}
