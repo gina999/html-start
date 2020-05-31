@@ -1,0 +1,20 @@
+#head {
+    display: flex;
+    background-color: #3a5998;
+}
+
+#title {
+    width: 300px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 10px 5px;
+}
+
+#input_group {
+    display: flex;
+    width: auto;
+    color: white;
+    width: 600px;
+    align-items: center;
+}
